@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sharanvelu
-- 👀 I’m interested in Backend(PHP, Node, Java), Shell(Bash, Zsh), 
+- 👀 I’m interested in Backend(PHP, Java), Shell(Bash, Zsh), 
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Shell(dockr)
 
